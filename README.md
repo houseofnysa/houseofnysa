@@ -17,7 +17,7 @@
   then set src to:  ./assets/logo.png
   For now this is a placeholder.
 -->
-<img src="./assets/logo.png" alt="House of NYSA" width="170" />
+<img src="./logo-with-bg-removed.png" alt="House of NYSA" width="170" />
 
 # House of NYSA
 
